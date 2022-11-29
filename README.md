@@ -1,2 +1,2 @@
 # MovieHub
-Proyecto movie hub para la practica basica de html y css junto con express.js
+Este es un proyecto practico donde utilizaremos tecnologias de Frontend como HTML y CSS ademas de usar javascript para lo basico del backend como iniciar un servidor local con express y realizar el routing de las paginas con el metodo GET usando express
